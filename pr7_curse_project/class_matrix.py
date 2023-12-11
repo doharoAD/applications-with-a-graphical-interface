@@ -45,6 +45,7 @@ class AnotherModifiedMatrix(Matrix):
                 self.data[i][4] = 0
 
 
+"""
 if __name__ == "__main__":
     # Создаем матрицу A (5x7) и выводим её до модификации
     matrix_A = ModifiedMatrix(5, 7)
@@ -69,3 +70,4 @@ if __name__ == "__main__":
     # Выводим матрицу B после замены единиц в пятом столбце на нули
     print("\nМатрица B после замены единиц в пятом столбце на нули:")
     matrix_B.display()
+"""
